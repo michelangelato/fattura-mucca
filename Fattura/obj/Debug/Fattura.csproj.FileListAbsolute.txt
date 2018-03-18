@@ -1,0 +1,10 @@
+C:\Users\michelangelo_marani\source\repos\Fattura\Fattura\bin\Debug\Fattura.exe.config
+C:\Users\michelangelo_marani\source\repos\Fattura\Fattura\bin\Debug\Fattura.exe
+C:\Users\michelangelo_marani\source\repos\Fattura\Fattura\bin\Debug\Fattura.pdb
+C:\Users\michelangelo_marani\source\repos\Fattura\Fattura\obj\Debug\Fattura.csprojResolveAssemblyReference.cache
+C:\Users\michelangelo_marani\source\repos\Fattura\Fattura\obj\Debug\Fattura.Properties.Resources.resources
+C:\Users\michelangelo_marani\source\repos\Fattura\Fattura\obj\Debug\Fattura.csproj.GenerateResource.cache
+C:\Users\michelangelo_marani\source\repos\Fattura\Fattura\obj\Debug\Fattura.csproj.CoreCompileInputs.cache
+C:\Users\michelangelo_marani\source\repos\Fattura\Fattura\obj\Debug\Fattura.exe
+C:\Users\michelangelo_marani\source\repos\Fattura\Fattura\obj\Debug\Fattura.pdb
+C:\Users\michelangelo_marani\source\repos\Fattura\Fattura\obj\Debug\Fattura.frmMain.resources
